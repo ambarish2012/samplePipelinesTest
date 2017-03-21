@@ -9,7 +9,7 @@ resources:
     type: image
     integration: docker
     pointer:
-      sourceName: "shippableSamples/samplepipelinesdemo"
+      sourceName: "shippablesamples/samplepipelinesdemo"
       isPull: false
     #make sure this seed version exists in your registry account
     seed:
